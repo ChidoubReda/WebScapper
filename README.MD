@@ -12,7 +12,7 @@ This project is a simple web scraper that extracts data from a website and saves
 1. **Clone the repository:**
 
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/ChidoubReda/WebScapper.git
     cd <repository-directory>
     ```
 
